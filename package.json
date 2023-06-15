@@ -1,0 +1,14 @@
+{
+  "name": "exercise-git-45-javascript",
+  "version": "1.0.0",
+  "description": "belajar javascript batch 45",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "author": "rani",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
